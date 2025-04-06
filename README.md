@@ -1,3 +1,5 @@
 # Proiect TSC
-**Bill of Materials**
+## Bill of Materials
+| Component       | Datasheet       | Link           |
+|-----------------|-----------------|----------------|
 
