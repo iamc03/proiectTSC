@@ -3,6 +3,7 @@
 Microcontroller-ul principal controlează toate componentele. Oferă conectivitate WiFi și BLE, GPIO-uri multiple, și interfețe I2C/SPI/UART.
 
 **Memorie externă - W25Q512**
+
 Interfață: SPI
 Conectare la ESP: GPIO19 (CLK), GPIO20 (MISO), GPIO21 (MOSI), GPIO17 (CS)
 Rol: memorie externă pentru stocare cod/config.
