@@ -12,3 +12,10 @@
  | W25Q512JVEIQ | - | https://www.snapeda.com/parts/W25Q512JVEIQ/Winbond+Electronics/view-part/?ref=eda |
  | 640-USB4110-GF-A | - | https://www.mouser.co.uk/ProductDetail/GCT/USB4110-GF-A?qs=KUoIvG%2F9IlYiZvIXQjyJeA%3D%3D |
  | PGB1010603MR | - | https://www.snapeda.com/parts/PGB1010603MR/Littelfuse/view-part/?ref=snap |
+ | BUTTONS | - | https://industry.panasonic.com/global/en/products/control/switch/light-touch/number/evqpuj02k |
+ | C (1-10) | - | https://componentsearchengine.com/part-view/CC0402MRX5R5BB106/YAGEO |
+ | LED | - | https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/view-part/?ref=search&t=LED%200603 |
+ | D (1-12) | - | https://www.snapeda.com/parts/PGB1010603MR/Littelfuse/view-part/?ref=eda |
+ | R (1-15) | - | https://componentsearchengine.com/part-view/R0402%201%25%20100%20K%20(RC0402FR-07100KL)/YAGEO |
+ | Test Pads | - | - |
+   
