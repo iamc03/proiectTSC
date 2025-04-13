@@ -52,28 +52,29 @@ EEPROM pentru păstrarea datelor între cicluri de alimentare (presupus U3).
 
 MAX17048 pentru monitorizarea nivelului bateriei (comunicare I2C).
 
-Pin ESP32-C6 |	Funcție hardware |
-IO0 |	GPIO / Boot	|
-IO1 |	UART TX |
-IO2 |	UART RX	|
-IO3 |	GPIO	|
-IO4 | GPIO	|
-IO5 |	GPIO	|
-IO6 |	GPIO	|
-IO7 |	GPIO	|
-IO8 |	GPIO	|
-IO9 |	SPI Flash – IO2 |
-IO10 | 	SPI Flash – IO3 |
-IO11 |	SPI Flash – SCK |
-IO12 |	SPI Flash – CS |
-IO13 |	SPI Flash – IO1 |
-IO14 |	SPI Flash – IO0 |
-IO15 |	I2C SDA |
-IO16 |	I2C SCL |
-IO17 |	SPI Display – DC |
-IO18 |	SPI Display – RST |
-IO19 |	SPI Display – CS |
-IO20 |	SPI Display – CLK |
-IO21 |	SPI Display – MOSI |
-IO22 |	SPI Display – BUSY |
-IO23 |	SPI ESD / Qwiic |
+| Pin ESP32-C6 |	Funcție hardware |
+|-------------|------------------|
+| IO0 |	GPIO / Boot	|
+| IO1 |	UART TX |
+| IO2 |	UART RX	|
+| IO3 |	GPIO	|
+| IO4 | GPIO	|
+| IO5 |	GPIO	|
+| IO6 |	GPIO	|
+| IO7 |	GPIO	|
+| IO8 |	GPIO	|
+| IO9 |	SPI Flash – IO2 |
+| IO10 | 	SPI Flash – IO3 |
+| IO11 |	SPI Flash – SCK |
+| IO12 |	SPI Flash – CS |
+| IO13 |	SPI Flash – IO1 |
+| IO14 |	SPI Flash – IO0 |
+| IO15 |	I2C SDA |
+| IO16 |	I2C SCL |
+| IO17 |	SPI Display – DC |
+| IO18 |	SPI Display – RST |
+| IO19 |	SPI Display – CS |
+| IO20 |	SPI Display – CLK |
+| IO21 |	SPI Display – MOSI |
+| IO22 |	SPI Display – BUSY |
+| IO23 |	SPI ESD / Qwiic |
